@@ -1,0 +1,33 @@
+.driver-wireframe {
+    flex: 1;
+    padding: 20px;
+    background: #fff;
+  }
+  
+  .search-container {
+    margin-bottom: 20px;
+  }
+  
+  .search-container input {
+    width: 300px;
+    padding: 8px;
+    font-size: 14px;
+  }
+  
+  .driver-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+  }
+  
+  .driver-table th,
+  .driver-table td {
+    border: 1px solid #ccc;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  .driver-table th {
+    background-color: #f0f0f0;
+  }
+  
