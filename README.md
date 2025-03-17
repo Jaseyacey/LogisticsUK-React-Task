@@ -34,6 +34,7 @@ To search for a driver, the user can enter the driver's name in the search bar. 
 
 To run the application, follow these steps:
 
-1. Run `npm install` to install the required dependencies.
-2. Run `npm start` to start the React application.
-3. Open [http://localhost:3000](http://localhost:3000) in your browser.
+1. Clone the repository and cd into the folder 
+3. Run `npm install` to install the required dependencies.
+4. Run `npm start` to start the React application.
+5. Open [http://localhost:3000](http://localhost:3000) in your browser.
